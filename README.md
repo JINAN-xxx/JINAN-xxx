@@ -41,7 +41,6 @@ I enjoy building practical AI systems from research to deployment.
 ### 🚀 Current Focus
 
 - Computer Vision
-- Reinforcement Learning
 - Real-time Inference
 - Edge AI Deployment
 
